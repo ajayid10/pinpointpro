@@ -56,7 +56,7 @@ PinPoint Pro follows the **Invincible UI** framework:
 
 ### Prerequisites
 - An API key from your chosen AI provider. We recommend **Azure OpenAI** — sign up at [azure.microsoft.com](https://azure.microsoft.com/en-us/products/ai-services/openai-service).
-- A modern browser with ES6 module support.
+- A modern browser with ES6 module support (such as the latest versions of Google Chrome, Microsoft Edge, Mozilla Firefox, or Safari).
 
 ### Supported AI Providers
 PinPoint Pro works with any OpenAI-compatible API. Set the following environment variables:
