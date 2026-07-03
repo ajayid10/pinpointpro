@@ -1,3 +1,12 @@
+## BERENICE Enikanoselu
+
+- **GitHub:** @Berenice2425
+- **Contribution:** Cloud & DevOps Foundation - Phase 2 Project
+- **Date:** 2026-07-03
+- **One thing I learned:** A good contributor does all the changes on a new branch, the feature branch. Never on the main.
+
+
+
 ## Zainab Oladimeji
 
 - **GitHub:** @zainab-oladimeji
